@@ -29,8 +29,8 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/kleesia.git
-   cd kleesia
+   git clone https://github.com/yourusername/reddit-clone.git
+   cd reddit-clone
    ```
 
 2. **Install dependencies**:
